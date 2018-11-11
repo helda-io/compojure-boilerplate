@@ -9,8 +9,8 @@
 (defroutes app-routes
   (context "/api" []
     (GET "/ping" [] (response {:status "ok"}))
-    (route/not-found "Not Found")
     )
+  (route/not-found "Not Found")
   )
 
 (def app
