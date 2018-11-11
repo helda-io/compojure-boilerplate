@@ -1,6 +1,6 @@
-# helda-storage
+# compojure-boilerplate
 
-FIXME
+Minimal compojure boilerplate for REST API
 
 ## Prerequisites
 
